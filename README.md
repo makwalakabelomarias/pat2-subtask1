@@ -6,7 +6,7 @@ Morse code is a method of transmitting text using sequences of dots and dashes t
 
 Developed in the 1830s–1840s by Samuel Morse and Alfred Vail, Morse code became essential for telegraph communication and was widely used in maritime and military contexts.
 
-## This it's how it working 
+## This is how it works 
 - A dot (.) represents a short signal.
 - A dash (-) represents a long signal.
 - Letters are separated by spaces, and words by slashes (/).
